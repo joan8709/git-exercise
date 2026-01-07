@@ -45,6 +45,7 @@ def calculate_average(numbers: list) -> float:
         15.0
     """
     # TODO: 리스트의 평균을 계산하여 반환하는 코드를 작성하세요
+    return sum(numbers), len(numbers)
     pass
 
 
