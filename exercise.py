@@ -66,6 +66,7 @@ def find_max(numbers: list) -> int:
         -1
     """
     # TODO: 리스트에서 최대값을 찾아 반환하는 코드를 작성하세요
+    return max(numbers)
     pass
 
 
