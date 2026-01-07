@@ -24,6 +24,7 @@ def calculate_sum(a: int, b: int) -> int:
         0
     """
     # TODO: 두 수의 합을 반환하는 코드를 작성하세요
+    return a+b
     pass
 
 
